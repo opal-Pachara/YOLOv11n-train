@@ -1,0 +1,4 @@
+ultralytics==8.3.169
+# ไม่ควรระบุ torch ใน requirements.txt ถ้าต้องการใช้ GPU
+# ให้ติดตั้ง torch, torchvision, torchaudio ตามเวอร์ชัน CUDA ด้วยคำสั่ง เช่น
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 

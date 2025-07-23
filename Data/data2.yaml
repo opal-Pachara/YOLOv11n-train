@@ -1,0 +1,6 @@
+train: C:\Users\opal_\Downloads\Augment-tool.v2i.yolov5pytorch\train
+val: C:\Users\opal_\Downloads\Augment-tool.v2i.yolov5pytorch\valid
+
+
+nc: 4
+names: ['Bottle', 'Can', 'Cap', 'Label']
